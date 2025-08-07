@@ -12,6 +12,10 @@
 
 https://github.com/dhivyadharshini15102005/Weapon_Detection/assets/demo_weapon_detection.mp4 *(Add your actual demo video or GIF link here)*
 
+![Weapon Detection Preview 1](https://drive.google.com/uc?export=view&id=1IoIpcP7pTU2PilfhxFPM9ZSCZlkz7YE4)
+
+![Weapon Detection Preview 2](https://drive.google.com/uc?export=view&id=1FYZiEd-TZNK3_S1GRUSm5lsqCRtWhTy0)
+
 ---
 
 ## 🧠 Overview
@@ -48,19 +52,6 @@ Using **YOLOv8** from the Ultralytics library, it processes video streams with h
 ✅ Modular codebase  
 ✅ Alarm trigger integration possible  
 ✅ Visual bounding boxes on detected weapons
-
----
-
-## 📂 Project Structure
-
-Weapon_Detection/
-├── yolov8n.pt                  # Pretrained YOLOv8 model (or fine-tuned)
-├── detect.py                   # Main detection script
-├── data/
-│   └── test_video.mp4          # Input test video file
-├── requirements.txt            # Required Python packages
-├── README.md                   # Project documentation
-└── outputs/                    # Saved output video/images
 
 ---
 # 🧪 Sample Output
