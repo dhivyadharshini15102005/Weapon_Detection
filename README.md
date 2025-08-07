@@ -12,9 +12,13 @@
 
 https://github.com/dhivyadharshini15102005/Weapon_Detection/assets/demo_weapon_detection.mp4 *(Add your actual demo video or GIF link here)*
 
-![Weapon Detection Preview 1](https://drive.google.com/uc?export=view&id=1IoIpcP7pTU2PilfhxFPM9ZSCZlkz7YE4)
+<h2 align="center">Weapon Detection System</h2>
 
-![Weapon Detection Preview 2](https://drive.google.com/uc?export=view&id=1FYZiEd-TZNK3_S1GRUSm5lsqCRtWhTy0)
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1IoIpcP7pTU2PilfhxFPM9ZSCZlkz7YE4" alt="Weapon Detection Screenshot 1" width="400"/>
+  <img src="https://drive.google.com/uc?export=view&id=1FYZiEd-TZNK3_S1GRUSm5lsqCRtWhTy0" alt="Weapon Detection Screenshot 2" width="400"/>
+</p>
+
 
 ---
 
