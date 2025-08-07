@@ -14,10 +14,17 @@ https://github.com/dhivyadharshini15102005/Weapon_Detection/assets/demo_weapon_d
 
 <h2 align="center">Weapon Detection System</h2>
 
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1IoIpcP7pTU2PilfhxFPM9ZSCZlkz7YE4" alt="Weapon Detection Screenshot 1" width="400"/>
-  <img src="https://drive.google.com/uc?export=view&id=1FYZiEd-TZNK3_S1GRUSm5lsqCRtWhTy0" alt="Weapon Detection Screenshot 2" width="400"/>
-</p>
+## 📸 Sample Outputs
+
+<div align="center">
+  <p><b>🔍 Weapon Detected - Sample Frame 1</b></p>
+  <img src="https://drive.google.com/uc?export=view&id=1IoIpcP7pTU2PilfhxFPM9ZSCZlkz7YE4" alt="Weapon Detection Sample 1" width="450"/>
+  
+  <br><br>
+  
+  <p><b>🔍 Weapon Detected - Sample Frame 2</b></p>
+  <img src="https://drive.google.com/uc?export=view&id=1FYZiEd-TZNK3_S1GRUSm5lsqCRtWhTy0" alt="Weapon Detection Sample 2" width="450"/>
+</div>
 
 
 ---
