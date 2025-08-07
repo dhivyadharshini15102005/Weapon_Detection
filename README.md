@@ -53,7 +53,6 @@ Using **YOLOv8** from the Ultralytics library, it processes video streams with h
 
 ## 📂 Project Structure
 
-```bash
 Weapon_Detection/
 ├── yolov8n.pt                  # Pretrained YOLOv8 model (or fine-tuned)
 ├── detect.py                   # Main detection script
