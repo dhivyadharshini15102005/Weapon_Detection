@@ -5,16 +5,10 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-Real%20Time%20Detection-red?style=for-the-badge&logo=opencv)
 
 > 🚨 Real-time surveillance solution to detect weapons using computer vision and deep learning. Built with YOLOv8 and OpenCV to enhance public safety through smart monitoring.
-
 ---
-
-## 📸 Demo
-
-https://github.com/dhivyadharshini15102005/Weapon_Detection/assets/demo_weapon_detection.mp4 *(Add your actual demo video or GIF link here)*
+## 📸 Sample Outputs
 
 <h2 align="center">Weapon Detection System</h2>
-
-## 📸 Sample Outputs
 
 <div align="center">
   <p><b>🔍 Weapon Detected - Sample Frame 1</b></p>
