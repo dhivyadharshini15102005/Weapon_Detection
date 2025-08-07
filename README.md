@@ -3,7 +3,6 @@
 ![Weapon Detection Banner](https://img.shields.io/badge/Weapon%20Detection-YOLOv8-brightgreen?style=for-the-badge&logo=github)
 ![Python](https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Real%20Time%20Detection-red?style=for-the-badge&logo=opencv)
-![License](https://img.shields.io/github/license/dhivyadharshini15102005/Weapon_Detection?style=for-the-badge)
 
 > 🚨 Real-time surveillance solution to detect weapons using computer vision and deep learning. Built with YOLOv8 and OpenCV to enhance public safety through smart monitoring.
 
@@ -63,5 +62,37 @@ Weapon_Detection/
 ├── requirements.txt            # Required Python packages
 ├── README.md                   # Project documentation
 └── outputs/                    # Saved output video/images
+
+---
+# 🧪 Sample Output
+
+Add your **real-time screenshots** or a **recorded video** from detection output here.
+
+---
+
+# 📈 Future Enhancements
+
+- 🔔 Sound alert system on detection  
+- 🧠 Integration with CCTV for 24/7 surveillance  
+- 📩 Email or SMS notification on alerts  
+- 🖥️ GUI for live monitoring  
+- 📊 Dashboard for analytics and reports  
+
+---
+
+# 🙋‍♀️ Author
+
+**Dhivyadharshini R**  
+🧑‍💻 Passionate about AI, Deep Learning, and solving real-world challenges.
+
+- 🔗 [GitHub](https://github.com/dhivyadharshini15102005)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dhivyadharshini8)  
+
+---
+
+# 🌟 Star This Repo
+
+If you like this project, don’t forget to ⭐ the repo — your support matters!
+
 
 
